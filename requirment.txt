@@ -1,0 +1,6 @@
+cmake,
+dlib,
+python 3.6,
+numpy,
+openCV,
+face-recognition
